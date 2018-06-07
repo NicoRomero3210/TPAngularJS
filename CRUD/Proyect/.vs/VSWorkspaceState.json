@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\angularApp",
+    "\\angularApp\\src",
+    "\\angularApp\\src\\app",
+    "\\angularApp\\src\\app\\empleado",
+    "\\angularApp\\src\\app\\shared",
+    "\\NodeJS",
+    "\\NodeJS\\controllers",
+    "\\NodeJS\\models"
+  ],
+  "SelectedNode": "\\NodeJS\\controllers\\empleadoController.js",
+  "PreviewInSolutionExplorer": false
+}
